@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Allo Allo</string>
+    <string name="allo">Allo</string>
+    <string name="description">Attempt to force Allo</string>
+</resources>
