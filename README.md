@@ -22,4 +22,4 @@ Note that AlloAllo is only **part** of the requirements to get Allo to launch an
 It was made for fun, to see if I could at least have a look around the app before its release, and I released the APK + Titanium Backup so others could too
 
 ## Database Documention (DIY conversations & users)
-Coming soon
+See the Wiki page [here](https://github.com/Quinny898/AlloAllo/wiki/Database-DIY)
